@@ -20,9 +20,25 @@ I’m a developer who thrives where logic meets creativity. My goal is to craft 
 
 ### 🧠 Tech Arsenal  
 
-<p align="center">
-  <img src="https://github.com/Ultra2021/Ultra2021/blob/main/assets/techcircle.svg" width="400" alt="Animated Tech Arsenal Circle" />
-</p>
+<div align="center" style="position: relative; width: 300px; height: 300px; margin: auto;">
+  <div class="circle" style="position: absolute; width: 100%; height: 100%; animation: rotate 15s linear infinite; transform-origin: center;">
+    <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/javascript.svg" width="50" style="position: absolute; top: 0; left: 50%; transform: translate(-50%, 0);" />
+    <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/python.svg" width="50" style="position: absolute; top: 20%; left: 85%; transform: translate(-50%, -50%);" />
+    <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/java.svg" width="50" style="position: absolute; top: 60%; left: 95%; transform: translate(-50%, -50%);" />
+    <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/cplusplus.svg" width="50" style="position: absolute; top: 85%; left: 70%; transform: translate(-50%, -50%);" />
+    <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/c.svg" width="50" style="position: absolute; top: 90%; left: 30%; transform: translate(-50%, -50%);" />
+    <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/html5.svg" width="50" style="position: absolute; top: 60%; left: 5%; transform: translate(-50%, -50%);" />
+    <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/css3.svg" width="50" style="position: absolute; top: 20%; left: 15%; transform: translate(-50%, -50%);" />
+    <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/bootstrap.svg" width="50" style="position: absolute; top: 0; left: 50%; transform: translate(-50%, 0);" />
+  </div>
+</div>
+
+<style>
+@keyframes rotate {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+</style>
 
 ---
 
