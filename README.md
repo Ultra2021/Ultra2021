@@ -20,31 +20,9 @@ I’m a developer who thrives where logic meets creativity. My goal is to craft 
 
 ### 🧠 Tech Arsenal  
 
-<div align="center">
-  <!-- Outer ring -->
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-  </p>
-  
-  <!-- middle empty gap for circular effect -->
-  <br><br><br>
-
-  <!-- inner ring -->
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-  </p>
-</div>
-
-<p align="center"><em>“Technology, when designed right, feels like magic — logical, beautiful, and alive.”</em></p>
+<p align="center">
+  <img src="https://github.com/Ultra2021/Ultra2021/blob/main/assets/techcircle.svg" width="400" alt="Animated Tech Arsenal Circle" />
+</p>
 
 ---
 
