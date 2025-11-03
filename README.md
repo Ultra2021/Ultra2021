@@ -30,8 +30,8 @@ I’m not just writing code — I’m designing experiences. Whether it’s a sl
 ### 🚀 Featured Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ultra2021&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultra2021&layout=compact&theme=radical" height="170" />
 </p>
 
 ---
@@ -43,7 +43,7 @@ I’m not just writing code — I’m designing experiences. Whether it’s a sl
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<your-username>&label=Visitors&color=blue&style=flat-square" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Ultra2021&label=Visitors&color=blue&style=flat-square" alt="visitor badge"/>
 </p>
 
 ---
