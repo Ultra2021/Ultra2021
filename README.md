@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Developer • Dreamer • Digital Craftsman</em><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF00&center=true&vCenter=true&width=500&lines=Code.+Create.+Repeat.;Building+cool+things+with+logic+and+art.;Turning+ideas+into+reality." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF00&center=true&vCenter=true&width=500&lines=Code.+Create.+Repeat.; Building+cool+things+with+logic+and+art.;Turning+ideas+into+reality." />
 </p>
 
 ---
