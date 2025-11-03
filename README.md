@@ -9,11 +9,11 @@
 
 ### 🧭 About Me  
 
-I’m a developer driven by curiosity and creativity. I believe in writing code that’s not only functional but also elegant — solutions that feel as good to read as they are to run.  
+I’m a developer who thrives where logic meets creativity. My goal is to craft software that doesn’t just *work* — it *flows*.  
 
-- 🎯 **Focus:** Full-stack web development, C++, and AI fundamentals  
-- 🚀 **Mission:** Build projects that blend innovation with human-centered design  
-- 💡 **Mindset:** Always learning, improving, and pushing ideas forward  
+- 🎯 **Focus:** Full-stack development, C++, and AI fundamentals  
+- 🚀 **Mission:** Build solutions that merge design, usability, and performance  
+- 💡 **Mindset:** Continuous learning and technical refinement  
 - ⚡ **Fun Fact:** My best debugging happens after midnight with lo-fi beats  
 
 ---
@@ -21,21 +21,21 @@ I’m a developer driven by curiosity and creativity. I believe in writing code 
 ### 🧠 Tech Arsenal  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />  
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
 
 <p align="center">
-  <em>“Clean, efficient, and future-ready — that’s how I like my code.”</em>
+  <em>“I believe technology should be elegant — both in code and in form.”</em>
 </p>
 
 ---
@@ -50,19 +50,6 @@ I’m a developer driven by curiosity and creativity. I believe in writing code 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ultra2021&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-
----
-
-### 🧩 Featured Projects  
-
-| 🚀 Project | Description | Tech |
-|-------------|--------------|------|
-| **LifeSkillLab** | A virtual life skills simulator for human-values education. | HTML, CSS, JS |
-| **Community Mood Map** | Real-time social sentiment tracker visualizing collective emotions. | Python, Flask, JS |
-| **SkillChain** | Peer micro-teaching exchange using blockchain concepts. | Node.js, Express |
-| **Ethics Compass** | Interactive decision-making simulator focused on moral reasoning. | C++, WebApp |
-
-<p align="center"><em>Explore my repositories for more creative builds and experiments.</em></p>
 
 ---
 
