@@ -7,9 +7,9 @@
 
 ---
 
-### 🎨 About Me  
+### 🎨 About Me
 
-I’m a developer who thrives where logic meets creativity. My goal is to craft software that doesn’t just *work* — it *flows*.  
+I’m a developer who thrives where logic meets creativity. My goal is to craft software that doesn’t just *work* — it *flows*.
 
 - 🎯 **Focus:** Full-stack development, C++, and AI fundamentals  
 - 🚀 **Mission:** Build solutions that merge design, usability, and performance  
@@ -18,15 +18,31 @@ I’m a developer who thrives where logic meets creativity. My goal is to craft 
 
 ---
 
-### 🧠 Tech Arsenal  
+### 🧠 Tech Arsenal
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/techcircle.svg" width="400" alt="Animated Tech Arsenal Circle" />
+  <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/javascript.svg" width="60" height="60" hspace="30"/>
+  <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/python.svg" width="60" height="60" hspace="30"/>
+  <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/java.svg" width="60" height="60" hspace="30"/>
+  <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/cplusplus.svg" width="60" height="60" hspace="30"/>
+  <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/c.svg" width="60" height="60" hspace="30"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/html5.svg" width="60" height="60" hspace="30"/>
+  <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/css3.svg" width="60" height="60" hspace="30"/>
+  <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/bootstrap.svg" width="60" height="60" hspace="30"/>
+  <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/git.svg" width="60" height="60" hspace="30"/>
+  <img src="https://raw.githubusercontent.com/Ultra2021/Ultra2021/main/assets/icons/nodejs.svg" width="60" height="60" hspace="30"/>
+</p>
+
+<p align="center">
+  <em>“Technology, when designed right, feels like magic — logical, beautiful, and alive.”</em>
 </p>
 
 ---
 
-### 📈 GitHub Analytics  
+### 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ultra2021&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -39,7 +55,7 @@ I’m a developer who thrives where logic meets creativity. My goal is to craft 
 
 ---
 
-### 🌀 Contribution Snake  
+### 🌀 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -51,7 +67,7 @@ I’m a developer who thrives where logic meets creativity. My goal is to craft 
 
 ---
 
-### 🧩 Quote to Code By  
+### 🧩 Quote to Code By
 
 > “Simplicity is the soul of efficiency.”  
 > — Austin Freeman  
